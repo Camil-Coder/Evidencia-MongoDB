@@ -1,0 +1,82 @@
+[
+    {
+        "id_cliente": "C001",
+        "nombre": "Juan Pérez",
+        "dirección": "Calle Falsa 123",
+        "teléfono": "1234567890",
+        "email": "juanperez@email.com",
+        "fecha_registro": "2023-01-01T00:00:00.000Z"
+    },
+    {
+        "id_cliente": "C002",
+        "nombre": "Ana López",
+        "dirección": "Avenida Siempre Viva 456",
+        "teléfono": "0987654321",
+        "email": "analopez@email.com",
+        "fecha_registro": "2023-02-01T00:00:00.000Z"
+    },
+    {
+        "id_cliente": "C003",
+        "nombre": "Carlos Martínez",
+        "dirección": "Boulevard de los Héroes 789",
+        "teléfono": "1231231234",
+        "email": "carlosmartinez@email.com",
+        "fecha_registro": "2023-03-01T00:00:00.000Z"
+    },
+    {
+        "id_cliente": "C004",
+        "nombre": "Laura García",
+        "dirección": "Calle del Sol 101",
+        "teléfono": "4564564567",
+        "email": "lauragarcia@email.com",
+        "fecha_registro": "2023-04-01T00:00:00.000Z"
+    },
+    {
+        "id_cliente": "C005",
+        "nombre": "Miguel Álvarez",
+        "dirección": "Plaza Central 202",
+        "teléfono": "7897897890",
+        "email": "miguelalvarez@email.com",
+        "fecha_registro": "2023-05-01T00:00:00.000Z"
+    },
+    {
+        "id_cliente": "C006",
+        "nombre": "Sofía Rodríguez",
+        "dirección": "Camino Largo 303",
+        "teléfono": "3213213210",
+        "email": "sofiarodriguez@email.com",
+        "fecha_registro": "2023-06-01T00:00:00.000Z"
+    },
+    {
+        "id_cliente": "C007",
+        "nombre": "Diego Hernández",
+        "dirección": "Avenida del Mar 404",
+        "teléfono": "6546546543",
+        "email": "diegohernandez@email.com",
+        "fecha_registro": "2023-07-01T00:00:00.000Z"
+    },
+    {
+        "id_cliente": "C008",
+        "nombre": "María Fernández",
+        "dirección": "Ruta del Bosque 505",
+        "teléfono": "9879879876",
+        "email": "mariafernandez@email.com",
+        "fecha_registro": "2023-08-01T00:00:00.000Z"
+    },
+    {
+        "id_cliente": "C009",
+        "nombre": "José Gómez",
+        "dirección": "Pasaje de la Luna 606",
+        "teléfono": "3693693690",
+        "email": "josegomez@email.com",
+        "fecha_registro": "2023-09-01T00:00:00.000Z"
+    },
+    {
+        "id_cliente": "C010",
+        "nombre": "Luisa Morales",
+        "dirección": "Vía Rápida 707",
+        "teléfono": "1471471470",
+        "email": "luisamorales@email.com",
+        "fecha_registro": "2023-10-01T00:00:00.000Z"
+    }
+]

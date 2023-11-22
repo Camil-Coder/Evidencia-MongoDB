@@ -1,0 +1,82 @@
+[
+    {
+        "id_cuenta": "CU001",
+        "id_cliente": "C001",
+        "tipo_cuenta": "Ahorros",
+        "saldo": 5000,
+        "moneda": "USD",
+        "fecha_apertura": "2023-03-01T00:00:00.000Z"
+    },
+    {
+        "id_cuenta": "CU002",
+        "id_cliente": "C002",
+        "tipo_cuenta": "Corriente",
+        "saldo": 3000,
+        "moneda": "USD",
+        "fecha_apertura": "2023-03-15T00:00:00.000Z"
+    },
+    {
+        "id_cuenta": "CU003",
+        "id_cliente": "C003",
+        "tipo_cuenta": "Ahorros",
+        "saldo": 6000,
+        "moneda": "USD",
+        "fecha_apertura": "2023-03-29T00:00:00.000Z"
+    },
+    {
+        "id_cuenta": "CU004",
+        "id_cliente": "C004",
+        "tipo_cuenta": "Corriente",
+        "saldo": 4500,
+        "moneda": "USD",
+        "fecha_apertura": "2023-04-12T00:00:00.000Z"
+    },
+    {
+        "id_cuenta": "CU005",
+        "id_cliente": "C005",
+        "tipo_cuenta": "Ahorros",
+        "saldo": 8000,
+        "moneda": "USD",
+        "fecha_apertura": "2023-04-26T00:00:00.000Z"
+    },
+    {
+        "id_cuenta": "CU006",
+        "id_cliente": "C006",
+        "tipo_cuenta": "Corriente",
+        "saldo": 2000,
+        "moneda": "USD",
+        "fecha_apertura": "2023-05-10T00:00:00.000Z"
+    },
+    {
+        "id_cuenta": "CU007",
+        "id_cliente": "C007",
+        "tipo_cuenta": "Ahorros",
+        "saldo": 5500,
+        "moneda": "USD",
+        "fecha_apertura": "2023-05-24T00:00:00.000Z"
+    },
+    {
+        "id_cuenta": "CU008",
+        "id_cliente": "C008",
+        "tipo_cuenta": "Corriente",
+        "saldo": 3500,
+        "moneda": "USD",
+        "fecha_apertura": "2023-06-07T00:00:00.000Z"
+    },
+    {
+        "id_cuenta": "CU009",
+        "id_cliente": "C009",
+        "tipo_cuenta": "Ahorros",
+        "saldo": 7000,
+        "moneda": "USD",
+        "fecha_apertura": "2023-06-21T00:00:00.000Z"
+    },
+    {
+        "id_cuenta": "CU010",
+        "id_cliente": "C010",
+        "tipo_cuenta": "Corriente",
+        "saldo": 4000,
+        "moneda": "USD",
+        "fecha_apertura": "2023-07-05T00:00:00.000Z"
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "id_préstamo": "P001",
+        "id_cliente": "C001",
+        "monto_préstamo": 20000,
+        "tipo_préstamo": "Hipoteca",
+        "tasa_interés": 5.5,
+        "plazo": 20,
+        "fecha_inicio": "2023-05-01T00:00:00.000Z",
+        "estado": "Activo"
+    },
+    {
+        "id_préstamo": "P002",
+        "id_cliente": "C002",
+        "monto_préstamo": 10000,
+        "tipo_préstamo": "Personal",
+        "tasa_interés": 6.0,
+        "plazo": 5,
+        "fecha_inicio": "2023-05-15T00:00:00.000Z",
+        "estado": "Activo"
+    },
+    {
+        "id_préstamo": "P003",
+        "id_cliente": "C003",
+        "monto_préstamo": 15000,
+        "tipo_préstamo": "Automotriz",
+        "tasa_interés": 4.5,
+        "plazo": 7,
+        "fecha_inicio": "2023-05-29T00:00:00.000Z",
+        "estado": "Activo"
+    },
+    {
+        "id_préstamo": "P004",
+        "id_cliente": "C004",
+        "monto_préstamo": 5000,
+        "tipo_préstamo": "Personal",
+        "tasa_interés": 6.5,
+        "plazo": 3,
+        "fecha_inicio": "2023-06-12T00:00:00.000Z",
+        "estado": "Activo"
+    },
+    {
+        "id_préstamo": "P005",
+        "id_cliente": "C005",
+        "monto_préstamo": 25000,
+        "tipo_préstamo": "Hipoteca",
+        "tasa_interés": 5.0,
+        "plazo": 15,
+        "fecha_inicio": "2023-06-26T00:00:00.000Z",
+        "estado": "Activo"
+    },
+    {
+        "id_préstamo": "P006",
+        "id_cliente": "C006",
+        "monto_préstamo": 8000,
+        "tipo_préstamo": "Personal",
+        "tasa_interés": 7.0,
+        "plazo": 4,
+        "fecha_inicio": "2023-07-10T00:00:00.000Z",
+        "estado": "Activo"
+    },
+    {
+        "id_préstamo": "P007",
+        "id_cliente": "C007",
+        "monto_préstamo": 12000,
+        "tipo_préstamo": "Educación",
+        "tasa_interés": 3.5,
+        "plazo": 6,
+        "fecha_inicio": "2023-07-24T00:00:00.000Z",
+        "estado": "Activo"
+    },
+    {
+        "id_préstamo": "P008",
+        "id_cliente": "C008",
+        "monto_préstamo": 20000,
+        "tipo_préstamo": "Renovación Hogar",
+        "tasa_interés": 4.0,
+        "plazo": 10,
+        "fecha_inicio": "2023-08-07T00:00:00.000Z",
+        "estado": "Activo"
+    },
+    {
+        "id_préstamo": "P009",
+        "id_cliente": "C009",
+        "monto_préstamo": 10000,
+        "tipo_préstamo": "Automotriz",
+        "tasa_interés": 5.5,
+        "plazo": 5,
+        "fecha_inicio": "2023-08-21T00:00:00.000Z",
+        "estado": "Activo"
+    },
+    {
+        "id_préstamo": "P010",
+        "id_cliente": "C010",
+        "monto_préstamo": 6000,
+        "tipo_préstamo": "Personal",
+        "tasa_interés": 6.0,
+        "plazo": 2,
+        "fecha_inicio": "2023-09-04T00:00:00.000Z",
+        "estado": "Activo"
+    }
+]
